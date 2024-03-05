@@ -110,4 +110,4 @@ Also paragraph1</p>
 
 Роботу виконав Маланін Данило, студент групи ІМ-21.
 
-[Посилання на revert-коміт](https://nodejs.org/en/download)
+[Посилання на revert-коміт](https://github.com/DanyloM73/Markdown-to-HTML-converter/commit/096026b7c57c5f17090ca9bfa8528f675956ac0c)
